@@ -1,0 +1,5 @@
+scipy
+selenium
+bs4
+lxml
+html5lib
