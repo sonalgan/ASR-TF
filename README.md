@@ -14,7 +14,9 @@ This project focuses on Automatic Speaker Recognition (ASR) using a custom-made 
 2. **CNN Model Architecture:**
    - The CNN model was trained using 19,000 spectrogram images for the training set and 8,200 validation samples for the validation set.
 
-   ![CNN Model Architecture](https://github.com/sonalgan/ASR-TF/assets/57640393/a0a8d1cd-eed5-4c60-b2bd-eeb14d1f22cc)
+   ![CNN Model Architecture](https://github.com/sonalgan/ASR-TF/assets/57640393/7704781f-b968-4e91-8554-6b18d960a07c)
+
+
    *Fig. 2: CNN Model Architecture*
 
 3. **ANN Model Training:**
@@ -53,5 +55,5 @@ For a detailed explanation of the project, refer to the published paper: [Link t
 - Address any identified limitations.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details.
 
